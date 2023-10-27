@@ -1,0 +1,176 @@
+{
+  "allusers": [
+    {
+      "username": "b",
+      "contactNum": "b",
+      "password": "b",
+      "id": 5
+    }
+  ],
+  "articles": [
+    {
+      "author": "NDTV News",
+      "title": "As 'Agnipath' Protests Spread, Centre's New Offer To Defence Aspirants - NDTV",
+      "description": "'Agnipath' protests: Home Ministry announces 10% reservation for 'Agniveers' in central police forces, Assam Rifles",
+      "url": "https://www.ndtv.com/india-news/agnipath-protests-home-ministry-announces-10-reservation-for-agniveers-in-central-police-forces-assam-rifles-3077943",
+      "urlToImage": "https://images.indianexpress.com/2014/03/agnipath-protests.jpg?w=660",
+      "publishedAt": "2022-06-18T04:04:32Z",
+      "content": "The Railways cancelled 234 trains while 340 trains have been affected due to the protests.\r\nNew Delhi: With the protests against the new military recruitment scheme spreading to eight states,Deleting references to the 2002 Gujarat riots, dropping passages that dealt with Emergency’s draconian impact, removing chapters on protests and social movements — these are some of the most sweeping changes in social science school textbooks since the NDA government came to power."
+    },
+
+    {
+      "author": "Lifestyle Desk",
+      "title": "Why you mustn't ignore pins and needles in hands and feet - The Indian Express",
+      "description": "Watching out for early symptoms and acting on them swiftly reduces the chances of experiencing neuropathy by a great fraction",
+      "url": "https://indianexpress.com/article/lifestyle/health/why-you-mustnt-ignore-pins-and-needles-in-hands-and-feet-7964788/",
+      "urlToImage": "https://images.indianexpress.com/2022/06/nerves_200_pixabay.jpg",
+      "publishedAt": "2022-06-18T03:40:51Z",
+      "content": "The nerves in our body play a vital role in transmitting impulses of sensationto our brain, muscles, spinal cord, and organs. The nerve cells, better known as neurons, communicate messages ."
+    },
+    {
+      "author": "Tech Desk",
+      "title": "WhatsApp now lets you hide your Profile Picture, Last Seen and Status updates from some contacts - The Indian Express",
+      "description": "WhatsApp: With a new update, WhatsApp now allows users to hide their Profile Picture, Last Seen and Status updates from some contacts, while showing it to other users in the address book. Read more here.",
+      "url": "https://indianexpress.com/article/technology/social/whatsapp-now-lets-you-hide-your-profile-picture-last-seen-and-status-updates-from-some-contacts-7976466/",
+      "urlToImage": "https://images.indianexpress.com/2022/06/WhatsApp-Express-Photo-1-4.jpg",
+      "publishedAt": "2022-06-18T03:35:38Z",
+      "content": "WhatsApp is known to periodically release new features that help users keep their privacy in check easily. A new update for the instant messaging app now brings a new way to hide your profile picture"
+    },
+    {
+      "author": "HT News Desk",
+      "title": "Pakistani restaurant draws flak for using Alia Bhatt's scene in advertisement - Hindustan Times",
+      "description": "The restaurant defended the advertisement of ‘Aja na Raja’ featuring a scene of Alia Bhatt's movie Gangubai Kathiawadi and said it was just a concept.  | World News",
+      "url": "https://www.hindustantimes.com/world-news/pakistani-restaurant-draws-flak-for-using-alia-bhatt-s-scene-in-aja-na-raja-advertisement-101655521811260.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/06/18/1600x900/alia_bhatt_1655521865957_1655521876149.JPG",
+      "publishedAt": "2022-06-18T03:19:35Z",
+      "content": "A restaurant in Karachi has drawn flak on social media platforms for using a scene from Bollywood film Gangubai Kathiawadi featuring Alia Bhatt to promote an offer only for men. In the movie, Alia Bh"
+    },
+    {
+      "author": "Arnavi sinha",
+      "title": "\"Maa...This Isn't A Mere Word\": PM Modi Visits Mother On Her Birthday - NDTV",
+      "description": "Prime Minister Narendra Modi on Saturday met his mother Heeraben Modi at her residence in Gandhinagar in Gujarat on the occasion of her birthday.",
+      "url": "https://www.ndtv.com/india-news/maa-this-isnt-a-mere-word-pm-modi-visits-his-mother-on-her-birthday-3077901",
+      "urlToImage": "https://c.ndtvimg.com/2022-06/f7e6b6cg_modi-mother_625x300_18_June_22.jpg",
+      "publishedAt": "2022-06-18T03:07:04Z",
+      "content": "The Prime Minister sought his mother's blessings and washed her feet.\r\nNew Delhi: Prime Minister Narendra Modi on Saturday met his mother Heeraben Modi at her residence in Gandhinagar in Gujarat on "
+    },
+    {
+      "author": "HT Entertainment Desk",
+      "title": "Vidyut Jammwal takes excited fan on drive in his Aston Martin, tells paparazzi 'I will get her back I promise'. Watch - Hindustan Times",
+      "description": "Vidyut Jammwal took a female fan on a drive in his Aston Martin and told the paparazzi while leaving that he promises to bring her back.",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/vidyut-jammwal-takes-excited-fan-on-drive-in-his-aston-martin-watch-101655518994095.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/06/18/1600x900/vidyut_jammwal_1655520995400_1655520995538.jpg",
+      "publishedAt": "2022-06-18T03:06:48Z",
+      "content": "Actor Vidyut Jammwal recently made a fan's day after he took her for a ride in his luxury car. The actor, who is currently looking forward to his upcoming film titled Khuda Haafiz: Chapter II Agni "
+    },
+    {
+      "author": "Swastika Das Sharma",
+      "title": "Debit Card, Credit Card Online Payment Rule Changes from Next Month: Know Details. - News18",
+      "description": "The RBI last year issued debit card and credit card tokenisation guidelines whereby merchants were prohibited from storing the data of customers' cards",
+      "url": "https://www.news18.com/news/business/debit-card-credit-card-online-payment-rule-changes-from-next-month-know-details-5394079.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2022/03/untitled-design-1-43-164673970816x9.png",
+      "publishedAt": "2022-06-18T03:03:57Z",
+      "content": "Debit, Credit Card Tokenisation: From next month, every Indian who does online transactions using a debit or credit card will have to remember their card details every time they make a payment"
+    },
+    {
+      "author": "Gaurav Gupta",
+      "title": "IND vs SA 4th T20I: Electric Dinesh Karthik, awesome Avesh Khan star in India's series-levelling win over - Times of India",
+      "description": "Cricket News: Continuing their resurgence from Vizag, where they beat the visitors by 48 runs, a relentless, ruthless India blew away South Africa by 82 runs in the",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/south-africa-in-india/ind-vs-sa-4th-t20i-electric-dinesh-karthik-awesome-avesh-khan-star-in-indias-series-levelling-win-over-south-africa/articleshow/92292779.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-92292833,width-1070,height-580,imgsize-108666,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2022-06-18T02:51:00Z",
+      "content": ".@DineshKarthik put on an impressive show with the bat &amp; bagged the Player of the Match award as #TeamIndia beat So https://t.co/4P5HGV2JzB\r\n— BCCI (@BCCI) 1655487167000"
+    },
+    {
+      "author": "Dr Vidyashankar P",
+      "title": "5 check-ups every man needs - Onmanorama",
+      "description": "Men over the age of 50 should have a yearly physical examination, while those under the age of 50 should have one every three to five years. Even if you feel healthy, it is critical to have regular check-ups because they help to diagnose disease early and red…",
+      "url": "https://www.onmanorama.com/lifestyle/health/2022/06/18/5-check-ups-every-man-needs.html",
+      "urlToImage": "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2022/6/18/health.jpg",
+      "publishedAt": "2022-06-18T02:48:06Z",
+      "content": "New Delhi: Most people underestimate the significance of regular examinations. Our hectic and unpredictable lifestyle frequently prevents us from seeking routine preventive care. People usually only"
+    },
+    {
+      "author": "Vishnu V V",
+      "title": "Garena Free Fire Max Redeem Codes for June 18, 2022: Redeem Latest FF Reward Using Codes - Republic World",
+      "description": "Check the Garena Free Fire redeem codes for June 18, 2022, which can be used to gather rare in-game supplies from the official website of the game.",
+      "url": "https://www.republicworld.com/technology-news/gaming/garena-free-fire-max-redeem-codes-for-june-18-2022-redeem-latest-ff-reward-using-codes-articleshow.html",
+      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/9ycwfedsxvbrmqmg_1655519233.jpeg",
+      "publishedAt": "2022-06-18T02:30:00Z",
+      "content": "Garena Free Fire is an adventure-cased battle royale game, which gained tons of popularity after Pubg Mobile India faced a ban in 2020. However, now the game has become one of the most popular mobile"
+    },
+    {
+      "author": "HT Tech",
+      "title": "Quordle 145 answer for June 18, 2022: It’s the weekend puzzle! Check Quordle hints, clues, solutions - HT Tech",
+      "description": "Quordle 145 answer for June 18, 2022: The days the words are easy is a rare treat. Today is sadly not one of those days. You will need these Quordle hints, clues and solutions. Use them wisely.",
+      "url": "https://tech.hindustantimes.com/how-to/quordle-145-answer-for-june-18-2022-it-s-the-weekend-puzzle-check-quordle-hints-clues-solutions-71655517333759.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2022/06/18/1600x900/HT_Tech_(23)_1651402236549_1655517398042.jpg",
+      "publishedAt": "2022-06-18T02:12:50Z",
+      "content": "Quordle 145 answer for June 18, 2022: The more you play Quordle, the more you begin to appreciate Wordle's simplicity. Most of the Quordle players have made the switch from Wordle and it will appear"
+    },
+    {
+      "author": "Krishn Kaushik",
+      "title": "Agnipath scheme: Why age relaxation can also become a problem - The Indian Express",
+      "description": "Recruitment data shows that the intake of 46,000 recruits this year — that's the number specified for recruitment in the first year of the Agnipath programme — will be the lowest since 2015 for the three services together.",
+      "url": "https://indianexpress.com/article/explained/agnipath-scheme-why-age-relaxation-can-also-become-a-problem-7976158/",
+      "urlToImage": "https://images.indianexpress.com/2022/06/indian-army-expl.jpg",
+      "publishedAt": "2022-06-18T01:50:11Z",
+      "content": "Moving to allay concerns and dial down anger on the streets over the short-term Agnipath recruitment scheme for the armed forces, the government announced a one-time relaxation in the upper age limit"
+    },
+    {
+      "author": "HT News Desk",
+      "title": "Biden says his relationship with India very good, visited twice - Hindustan Times",
+      "description": "A day after US state department spokesperson Ned Price said US is there for India, President Joe Biden said, \"I have been to India twice and will be back. My relationship with (India is) very good.\" | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/biden-says-his-relationship-with-india-very-good-visited-twice-101655514835036.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/06/18/1600x900/modi_biden_1655515205051_1655515213806.JPG",
+      "publishedAt": "2022-06-18T01:22:19Z",
+      "content": "US President Joe Biden on Friday said he shared a very good relationship with India and hoped to visit the country again. \"I have been to India twice and will be back. My relationship with (India is)… [+1496 chars]"
+    },
+    {
+      "author": "Ravi vishnoi",
+      "title": "Jammu and Kashmir cop shot dead by terrorists at his Pulwama home - India Today",
+      "description": "Sub-Inspector Farooq Ahmad Mir was shot dead by terrorists inside his home in Pulwama district of Jammu and Kashmir, officials said on Saturday.",
+      "url": "https://www.indiatoday.in/india/story/jammu-kashmir-cop-shot-dead-terrorists-inside-home-pulwama-pampore-1963792-2022-06-18",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202206/EIIKU36SEJK45CLODNICDXIKLI_120-647x363.jpeg?nDIuOfyxyc1cM8G5_mZfKXY5r85zT7qc",
+      "publishedAt": "2022-06-18T01:15:26Z",
+      "content": "New Delhi: Most people underestimate the significance of regular examinations. Our hectic and unpredictable lifestyle frequently prevents us from seeking routine preventive care. People usually only"
+    },
+    {
+      "author": "Ritika Chopra",
+      "title": "Express Investigation — Part 1: From Emergency to Gujarat riots, lessons of past deleted from textbooks of future - The Indian Express",
+      "description": "Express matched NCERT’s revisions with content in 21 history, political science and sociology textbooks for Classes 6 to 12 — found sweeping changes",
+      "url": "https://indianexpress.com/article/express-exclusive/express-investigation-part-1-from-emergency-to-gujarat-riots-lessons-of-past-deleted-from-textbooks-of-future-7976207/",
+      "urlToImage": "https://images.indianexpress.com/2022/06/gujarat-riots-2.jpg",
+      "publishedAt": "2022-06-18T01:09:09Z",
+      "content": "Deleting references to the 2002 Gujarat riots, dropping passages that dealt with Emergencys draconian impact on people and institutions, removing chapters on protests and social movements, including … [+14609 chars]"
+    },
+    {
+      "author": "HT News Desk",
+      "title": "Bihar bandh today over Agnipath; RJD, BJP ally Jitan Manjhi extend support - Hindustan Times",
+      "description": "The 24-hour Bihar bandh today has been called by students' organisations led by AISA (All India Students' Association) demanding the immediate rollback of the Agnipath scheme. Internet services have been suspended in 12 districts in Bihar on Friday as a preca…",
+      "url": "https://www.hindustantimes.com/india-news/bihar-bandh-today-over-agnipath-rjd-bjp-ally-jitan-manjhi-extend-support-10-points-101655511789776.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/06/18/1600x900/20220617-KPT-SK-MN-03-0_1655511814621_1655511837352.JPG",
+      "publishedAt": "2022-06-18T00:31:24Z",
+      "content": "Students' organisations in Bihar, led by the All India Students' Association, have called a 24-hour Bihar bandh on June 18 demanding an immediate rollback of the Agnipath scheme, protests against"
+    },
+    {
+      "author": "Srinidhi Ramanujam",
+      "title": "Armaan Jaffer brings his appetite for big runs to senior level - ESPNcricinfo",
+      "description": "He scored heaps of runs in age-group cricket, but had only 55 runs to show for his five Ranji Trophy matches before this season",
+      "url": "https://www.espncricinfo.com/story/mumbai-vs-up-ranji-trophy-2021-22-semi-final-armaan-jaffer-brings-his-appetite-for-big-runs-to-senior-level-1320432",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/341100/341173.6.jpg",
+      "publishedAt": "2022-06-17T20:07:31Z",
+      "content": "FeatureHe scored heaps of runs in age-group cricket, but had only 55 runs to show for his five Ranji Trophy matches before this season"
+    },
+
+    {
+      "author": "Arunima",
+      "title": "Pak May Come off FATF Grey List Soon But Only after On-site Verification; India's Kashmir Concerns Rise - News18",
+      "description": "Indian officials feel taking Pakistan off the grey list could make the ISI go all out once again in financing Jaish-e-Mohammed, Lashkar-e-Taiba, and others",
+      "url": "https://www.news18.com/news/world/pak-may-come-off-fatf-grey-list-soon-but-only-after-on-site-verification-indias-kashmir-concerns-rise-5393575.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2022/06/pakistan-165543741016x9.jpg",
+      "publishedAt": "2022-06-17T18:00:05Z",
+      "content": "Pakistan may be off the Financial Action Task Force (FATF) grey list soon. The intergovernmental agency after its plenary meeting in Berlin decided to carry out an on-site visit to Pakistan and said"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+.topNav {
+    height: 50px;
+    width: 100%;
+    border-bottom: 2px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.topNav>div {
+    width: 30%;
+}
+
+.back_to_home {
+    margin-right: 4%;
+    padding-right: 10px;
+    color: gray;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.back_to_home>p {
+    margin-top: 12px;
+}
+
+.newsLogo {
+    width: 10%;
+    height: 45%;
+}
+
+/* sign in box */
+
+.signIn_wrapper {
+
+    width: 430px;
+    height: 700px;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border: 5px solid rgb(223, 225, 230);
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.signIn_wrapper>h2 {
+    font-size: 27px;
+    line-height: normal;
+    font-weight: 700;
+    color: #000;
+}
+
+.evfafagoogle {
+    background: url(https://indianexpress.com/wp-content/themes/indianexpress/images/evolok/gmail.svg) center /cover no-repeat;
+    width: 17px;
+    height: 17px;
+    margin: 4px 0 0 0;
+}
+
+.evfafafb {
+    background: url(https://indianexpress.com/wp-content/themes/indianexpress/images/evolok/facebook.svg) center /cover no-repeat;
+    width: 17px;
+    height: 17px;
+    margin: 4px 0 0 0;
+}
+
+.evfafaapple {
+    background: url(https://indianexpress.com/wp-content/themes/indianexpress/images/evolok/apple.svg) center /cover no-repeat;
+    width: 19px;
+    height: 19px;
+    margin: 0px 0 0 -15px;
+}
+
+.eachSocial {
+    height: 50px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid rgb(223, 225, 230);
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.evsocialbtntext {
+    margin-left: 15px;
+    font-weight: 400;
+    font-size: larger;
+    color: rgb(125, 125, 125);
+}
+
+
+.ngbinding {
+    width: 40px;
+    margin: auto;
+    background-color: white;
+}
+
+.numberInput {
+    display: flex;
+    width: 80%;
+    height: 53px;
+    border-bottom: 1px solid teal;
+    margin: auto;
+    align-items: center;
+}
+
+.evfafaemail {
+    background: url(https://indianexpress.com/wp-content/themes/indianexpress/images/evolok/email-mobile.svg) left center /20px 39px no-repeat;
+    width: 25px;
+    height: 35px;
+    margin: 6px 15px 0 0;
+}
+
+.numberInput input {
+    width: 100%;
+    height: 50px;
+    outline: none;
+    border: none;
+    font-size: 19px;
+}
+
+.evfafaepass {
+    background: url(https://indianexpress.com/wp-content/themes/indianexpress/images/evolok/locked.svg) left center /20px 39px no-repeat;
+    width: 22px;
+    height: 32px;
+    margin: 6px 15px 0 0;
+}
+
+/* */
+
+.eachSocialb{
+    height: 50px;
+    width: 80%;
+    font-size: larger;
+    font-weight:700;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    color: rgb(16, 84, 244);
+    align-items: center;
+    border: 2px solid rgb(69, 122, 244);
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.eachSocialb:hover{
+    color: white;
+    background-color: rgb(16, 84, 244);
+}
+
+.createAccount{
+    margin-top: 0px;
+    color: rgb(16, 84, 244);
+    text-decoration: none;
+    text-align: center;
+    font-size:large;
+    font-weight: 600;
+}

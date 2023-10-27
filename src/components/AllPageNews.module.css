@@ -1,0 +1,48 @@
+.tenNews{
+    padding: 5px;
+    width: 99%;
+}
+
+.fisrtNews {
+    width: 100%;
+    max-width: 98%;
+    height: 350px;
+    padding: 5px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: white;
+}
+
+.fisrtNews>div {
+    width: 48%;
+    height: 100%;
+}
+
+.fisrtNews>div:nth-child(1) {
+    width: 70%;
+    height: 100%;
+}
+
+.fisrtNews>div:nth-child(2)>img {
+    height: 100%;
+    width: 100%;
+
+}
+
+.fisrtNews>div:nth-child(1)>h1,
+p {
+    text-align: left;
+    margin-top: 0px;
+}
+
+.fisrtNews>div:nth-child(1)>h1:hover {
+    cursor: pointer;
+    color: rgb(163, 32, 32);
+}
+
+.author{
+    color: rgb(108, 5, 5);
+    font-weight: 700;
+}
